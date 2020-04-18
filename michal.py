@@ -6,32 +6,11 @@ def oblicz():
 print(oblicz())
 
 
-
-class Dupa:
-    pass
-
-
-class Dupa1:
-    pass
-
-
-class Dupa2:
-    pass
-
-
-class Dupa3:
-    pass
-
-
-class Dupa5:
-    pass
-
-
-class MichalClass:
-    pass
-
-
 class MaciekClass:
+    pass
+
+
+class Michal6:
     pass
 
 
