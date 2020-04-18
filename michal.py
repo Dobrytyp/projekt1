@@ -33,3 +33,7 @@ class MichalClass:
 
 class MaciekClass:
     pass
+
+
+class FinalTest:
+    pass
