@@ -22,3 +22,4 @@ class Dupa2:
 class Dupa3:
     pass
 
+
