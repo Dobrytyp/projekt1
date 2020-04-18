@@ -29,3 +29,7 @@ class Dupa5:
 
 class MichalClass:
     pass
+
+
+class MaciekClass:
+    pass
