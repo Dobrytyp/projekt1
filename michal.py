@@ -25,3 +25,7 @@ class Dupa3:
 
 class Dupa5:
     pass
+
+
+class MichalClass:
+    pass
