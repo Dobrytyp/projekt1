@@ -4,3 +4,13 @@ def oblicz():
 
 
 print(oblicz())
+
+
+
+class Dupa:
+    pass
+
+
+class Dupa1:
+    pass
+
