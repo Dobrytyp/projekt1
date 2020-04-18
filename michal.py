@@ -9,4 +9,4 @@ print(oblicz())
 class Dupa:
     pass
 
-    def
+
